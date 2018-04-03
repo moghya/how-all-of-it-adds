@@ -45,5 +45,5 @@ We'll try to cover state of processor, memory, data-packet at each stage during 
 	 
  - Rendering of HTML
 	 - 
-	 -[parsing and rendering](html-rendering.md)
+	 - [parsing and rendering](html-rendering.md)
 
